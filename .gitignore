@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/database.db
+data/users.xlsx
+venv/
